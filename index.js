@@ -1,5 +1,6 @@
 console.log('Olá mundo!!!!!')
 
+// Passos para criar um novo projeto:
 // git init
 // git add nomeDoArquivo ou pra enviar todos os arquivos que estão na pasta:  git add .
 // comitar o codigo: salva e registra o que foi feito no código até este momento. git commit -m "mensagem"
