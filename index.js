@@ -7,3 +7,8 @@ console.log('Olá mundo!!!!!')
 // Renomear a branch: git branch -M main
 // git remote add origin https://github.com/natasha9999/desafio-logica-inicial.git
 // Enviando os arquivos pro Github:  git push -u nomeDoLinkRemoto nomeDaBranch portanto: git push -u origin main
+
+// Atualizando o projeto no Github:
+// git add .
+// git commit -m "mensagem"
+// git push -u origin main
